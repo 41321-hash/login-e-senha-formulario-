@@ -22,7 +22,7 @@ http://127.0.0.1:5000/users/login
 http://127.0.0.1:5000/users/me
 
 Authorization - type - Bearer Token Token exp: [colocar código gerado do login]
-
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc5MDc3ODExMSwianRpIjoiY2ZiYTY4NWMtNWQ4ZS00MzZhLWE5ZjQtZDFjN2YxYTNlOTU4IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEiLCJuYmYiOjE3OTA3NzgxMTEsImNzcmYiOiI3MjAyNzBjNC1kNGZjLTQ1ODQtYTRiMi1iZmJmNmNmOWRkOWYiLCJleHAiOjE3OTA3NzkwMTF9.YZuPIdeNiiGARFJssW4Wy7jeQW_2jRI-XeJrWhU8a54
 
 -----------PUT----------------
 
